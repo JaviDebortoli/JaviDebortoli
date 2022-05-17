@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JaviDebortoli
+- 👀 I’m interested in desktop apps and web apps
+- 🌱 I’m currently learning Java, web development(HTML, CSS, Javascript) and .NET 6 with C#
+- 📫 How to reach me: javidebortoli@gmail.com
